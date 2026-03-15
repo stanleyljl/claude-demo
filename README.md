@@ -80,8 +80,8 @@ claude-demo/
 
 ## 作者
 
-- **张三** - 游戏程序员 / 游戏开发工程师
-- GitHub: [@zhangsan](https://github.com/zhangsan)
+- **张星海** - 游戏程序员 / 游戏开发工程师
+- GitHub: [@gamedev-zhang](https://github.com/gamedev-zhang)
 
 ---
 
